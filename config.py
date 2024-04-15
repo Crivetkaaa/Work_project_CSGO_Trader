@@ -1,0 +1,1 @@
+domain = 'plg2x.com'
